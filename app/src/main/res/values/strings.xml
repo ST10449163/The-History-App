@@ -7,4 +7,5 @@
     <string name="generatehistory">GenerateHistory</string>
     <string name="entertheage">EnterTheAge</string>
     <string name="studentAge" />
+    <string name="enter_the_age">Enter_The_Age</string>
 </resources>
